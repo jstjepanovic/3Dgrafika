@@ -1,0 +1,47 @@
+﻿  RasterizingPlacko.cpp
+C:\Users\Playa\Desktop\RasterizingPlacko\RasterizingPlacko\OBJparser.h(70,31): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Playa\Desktop\RasterizingPlacko\RasterizingPlacko\OBJparser.h(88,31): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Playa\Desktop\RasterizingPlacko\RasterizingPlacko\OBJparser.h(106,31): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Playa\Desktop\RasterizingPlacko\RasterizingPlacko\RasterizingPlacko.cpp(103,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Playa\Desktop\RasterizingPlacko\RasterizingPlacko\RasterizingPlacko.cpp(103,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Playa\Desktop\RasterizingPlacko\RasterizingPlacko\RasterizingPlacko.cpp(103,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Playa\Desktop\RasterizingPlacko\RasterizingPlacko\RasterizingPlacko.cpp(103,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Playa\Desktop\RasterizingPlacko\RasterizingPlacko\RasterizingPlacko.cpp(110,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Playa\Desktop\RasterizingPlacko\RasterizingPlacko\RasterizingPlacko.cpp(110,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Playa\Desktop\RasterizingPlacko\RasterizingPlacko\RasterizingPlacko.cpp(110,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Playa\Desktop\RasterizingPlacko\RasterizingPlacko\RasterizingPlacko.cpp(110,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Playa\Desktop\RasterizingPlacko\RasterizingPlacko\RasterizingPlacko.cpp(111,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Playa\Desktop\RasterizingPlacko\RasterizingPlacko\RasterizingPlacko.cpp(111,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Playa\Desktop\RasterizingPlacko\RasterizingPlacko\RasterizingPlacko.cpp(111,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Playa\Desktop\RasterizingPlacko\RasterizingPlacko\RasterizingPlacko.cpp(111,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\utility(151,16): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty1=const int
+          ]
+C:\Users\Playa\Desktop\RasterizingPlacko\RasterizingPlacko\OBJparser.h(40): message : see reference to function template instantiation 'std::pair<const int,int>::pair<float,float,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=float,
+              _Other2=float
+          ]
+C:\Users\Playa\Desktop\RasterizingPlacko\RasterizingPlacko\OBJparser.h(40): message : see reference to function template instantiation 'std::pair<const int,int>::pair<float,float,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=float,
+              _Other2=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\utility(151,1): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+  RasterizingPlacko.vcxproj -> C:\Users\Playa\Desktop\RasterizingPlacko\Debug\RasterizingPlacko.exe
